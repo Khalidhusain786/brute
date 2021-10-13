@@ -43,21 +43,27 @@ python3 brute.py -f Account_facebook -l File_list
 
 python3 brute.py -f Account_facebook -l File_list -X proxy-list.txt 
 
-# Facebook attack 
 
-python3 brute.py -f Account_facebook -l File_list
+# Netflix attack 
 
-python3 brute.py -f Account_facebook -l File_list -X proxy-list.txt 
+python3 Brute_Force.py -n Account_Netflix -l File_list 
 
-# Facebook attack 
+python3 Brute_Force.py -n Account_Netflix -l File_list -X proxy-list.txt
 
- 
 
-# Facebook attack 
+
 
  
 
-# Facebook attack 
+
+
+ 
+
+
+
+ 
+
+
 
  
 
