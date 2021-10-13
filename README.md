@@ -4,9 +4,11 @@ this tool using password guessing you forgot your passwords
 # Installation 
 
 
-git clone https://github.com/Khalidhusain786/brute.git 
+git clone https://github.com/Khalidhusain786/brute.git
 
-sudo apt install python3 python3-pip
+cd brute
+
+apt install python3 python3-pip
 
 pip3 install proxylist
 
