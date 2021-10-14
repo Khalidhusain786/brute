@@ -204,7 +204,7 @@ def Netflix():
 
         try_login += 1
 
-        if try_login == 10:
+        if try_login == 10000:
 
             try_login = 0
 
@@ -266,7 +266,7 @@ def facebook():
 
         try_login += 1
 
-        if try_login == 10:
+        if try_login == 10000:
 
             try_login = 0
 
@@ -326,7 +326,7 @@ def twitter():
 
         try_login += 1
 
-        if try_login == 10:
+        if try_login == 10000:
 
             try_login = 0
 
